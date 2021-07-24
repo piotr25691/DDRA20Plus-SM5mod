@@ -1,3 +1,5 @@
+## This theme is a modified version of the following:
+
 # DDR-A20-INORI
 A modified version of WyvernD's DDR A20 theme to target accuracy, performance issues, and missing features.
 
