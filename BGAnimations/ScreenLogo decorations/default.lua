@@ -14,7 +14,7 @@ local t = Def.ActorFrame{
   };
   Def.BitmapText{
     Font="_futura pt medium 30px";
-    InitCommand=cmd(settext,"MDX:A:A:A:2021020900";halign,0;xy,SCREEN_LEFT+8,SCREEN_TOP+15;zoomx,0.62;zoomy,0.6;strokecolor,color("0,0,0,0.5"));
+    InitCommand=cmd(settext,"MDX:A:A:A:2021061500";halign,0;xy,SCREEN_LEFT+8,SCREEN_TOP+15;zoomx,0.62;zoomy,0.6;strokecolor,color("0,0,0,0.5"));
   };
 	LoadActor(THEME:GetPathB("_Arcade","decorations"));
 	

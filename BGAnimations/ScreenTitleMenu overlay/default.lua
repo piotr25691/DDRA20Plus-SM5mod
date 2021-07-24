@@ -6,7 +6,7 @@ local t = Def.ActorFrame{
 };
 	Def.BitmapText{
     Font="_futura pt medium 30px";
-    InitCommand=cmd(settext,"MDX:A:A:A:2021020900";halign,0;xy,SCREEN_LEFT+8,SCREEN_TOP+15;zoomx,0.62;zoomy,0.6;strokecolor,color("0,0,0,0.5"));
+    InitCommand=cmd(settext,"MDX:A:A:A:2021061500";halign,0;xy,SCREEN_LEFT+8,SCREEN_TOP+15;zoomx,0.62;zoomy,0.6;strokecolor,color("0,0,0,0.5"));
   };
   Def.Sprite{
 	InitCommand=function(s) s:xy(_screen.cx,_screen.cy+282):diffuseshift():zoom(0.6):effectcolor1(Color.White):effectcolor2(color("#B4FF01")):effectperiod(2) end,
